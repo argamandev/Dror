@@ -6,7 +6,7 @@ An AI documentation assistant for Israeli psychologists, built around a Hebrew, 
 
 Dror brings session notes, recordings, and supporting documents into a patient workspace. The assistant helps a psychologist retrieve context and prepare session summaries and clinical letters for review. This repository contains the React frontend and the Base44 backend configuration for the product's Base44 implementation.
 
-<a href="https://sagi-argaman-portfolio.vercel.app/#dror"><img src="docs/images/dror-preview.jpg" width="240" alt="Dror Hebrew mobile interface, captured from the product walkthrough"></a>
+<a href="https://sagi-argaman-portfolio.vercel.app/#dror"><img src="docs/images/dror-preview.jpg" width="240" alt="Dror Hebrew patient-context chat, captured from the product walkthrough"></a>
 
 ## Product workflow
 
